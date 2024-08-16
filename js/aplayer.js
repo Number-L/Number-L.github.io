@@ -6,8 +6,8 @@ const ap = new APlayer({
     {
       name: "子夜寄君书",
       artist: "artist",
-      url: "music/子夜寄君书.mp3",
-      cover: "music/子夜寄君书.jpg",
+      url: "/music/子夜寄君书.mp3",
+      cover: "/music/子夜寄君书.jpg",
     },
   ],
 });
